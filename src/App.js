@@ -1,8 +1,18 @@
 import Counter from "./Counter";
-import Use from "./UseState/Use";
+import Us from "./UseState/Us";
+import Ue1 from "./useEffect/Ue1";
+import Ue2 from "./useEffect/Ue2";
+import Infinite from "./useEffect/Infinite";
+import Ue3 from "./useEffect/Ue3";
 function App() {
   return (
-    <Use/>
+    // <Counter></Counter>
+    // <Us></Us>
+    // <Ue1></Ue1>
+    // <Ue2/>
+    // <Infinite/>
+    <Ue3/>
+
   )
 }
 

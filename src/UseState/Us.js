@@ -1,6 +1,6 @@
 import React ,{useState}from 'react'
 
-function Use() {
+function Us() {
 
     const [msgObj,setMessage]=useState({message:""});
 
@@ -26,4 +26,4 @@ function Use() {
     )
 }
 
-export default Use
+export default Us
